@@ -1,0 +1,9 @@
+﻿  Source.cpp
+d:\facultate\adp\openmp-matrixmultiplication\openmp-matrixmultiplication\source.cpp(63): warning C4018: '<': signed/unsigned mismatch
+d:\facultate\adp\openmp-matrixmultiplication\openmp-matrixmultiplication\source.cpp(65): warning C4018: '<': signed/unsigned mismatch
+d:\facultate\adp\openmp-matrixmultiplication\openmp-matrixmultiplication\source.cpp(73): warning C4018: '<': signed/unsigned mismatch
+d:\facultate\adp\openmp-matrixmultiplication\openmp-matrixmultiplication\source.cpp(75): warning C4018: '<': signed/unsigned mismatch
+d:\facultate\adp\openmp-matrixmultiplication\openmp-matrixmultiplication\source.cpp(84): warning C4018: '<': signed/unsigned mismatch
+d:\facultate\adp\openmp-matrixmultiplication\openmp-matrixmultiplication\source.cpp(86): warning C4018: '<': signed/unsigned mismatch
+d:\facultate\adp\openmp-matrixmultiplication\openmp-matrixmultiplication\source.cpp(53): warning C4101: 'startTime': unreferenced local variable
+  OpenMp-MatrixMultiplication.vcxproj -> D:\FACULTATE\ADP\OpenMp-MatrixMultiplication\Debug\OpenMp-MatrixMultiplication.exe
