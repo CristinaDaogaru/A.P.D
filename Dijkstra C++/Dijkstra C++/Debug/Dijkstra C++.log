@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\cristina\desktop\dijkstra c++\dijkstra c++\source.cpp(34): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\cristina\desktop\dijkstra c++\dijkstra c++\source.cpp(44): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\cristina\desktop\dijkstra c++\dijkstra c++\source.cpp(52): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\cristina\desktop\dijkstra c++\dijkstra c++\source.cpp(56): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\cristina\desktop\dijkstra c++\dijkstra c++\source.cpp(58): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\cristina\desktop\dijkstra c++\dijkstra c++\source.cpp(73): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\cristina\desktop\dijkstra c++\dijkstra c++\source.cpp(73): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\cristina\desktop\dijkstra c++\dijkstra c++\source.cpp(74): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\cristina\desktop\dijkstra c++\dijkstra c++\source.cpp(74): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Dijkstra C++.vcxproj -> C:\Users\CRISTINA\Desktop\Dijkstra C++\Debug\Dijkstra C++.exe

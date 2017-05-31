@@ -1,0 +1,5 @@
+﻿  Dijkstra CUDA.vcxproj -> C:\Users\CRISTINA\Desktop\Dijkstra CUDA - Copy\Debug\Dijkstra CUDA.exe
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart*.dll" "C:\Users\CRISTINA\Desktop\Dijkstra CUDA - Copy\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart32_80.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart64_80.dll
+          2 file(s) copied.
